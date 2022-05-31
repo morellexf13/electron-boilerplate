@@ -1,0 +1,38 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "🔮 Framework-less last version of Electron boilerplate",
+  "author": "morellexf26",
+  "license": "MIT",
+  "main": "main.js",
+  "build": {
+    "productName": "electron-quick-start",
+    "appId": "electron-quick-start",
+    "mac": {
+      "target": [
+        {
+          "target": "default",
+          "arch": "universal"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "app:dir": "electron-builder --dir",
+    "app:dist": "electron-builder"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "frameworkless"
+  ],
+  "devDependencies": {
+    "electron": "^19.0.1",
+    "electron-builder": "^23.0.3"
+  }
+}
