@@ -10,12 +10,15 @@
   </h1>
   <sup>
     <br />
-   The frameworkless last version of Electron boilerplate</em>
+   A Electron Starter Boilerplate for JavaScript. 
+   
+   Start creating your macOS and Windows apps right now!</em>
     <br />
     <br />
     
    [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf26/electron-frameworkless/blob/main/LICENSE)
    [![Version](https://img.shields.io/github/v/tag/morellexf26/electron-frameworkless?label=%20&style=for-the-badge)](https://github.com/morellexf26/electron-frameworkless/releases)
+[![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://www.electronjs.org)
   </sup>
   <br />
 </div>
@@ -24,18 +27,22 @@
 
 ## What is Electron Frameworkless?
 
-No React, no Vue, no modules. <br>
-Just vanilla Javascript/HTML/CSS and Electron on the go.
+No dependencies. Just vanilla Javascript/HTML/CSS and Electron on the go.
 
 <br>
 
-## 🏚 Build
+## 🚀 Install
 
-1. `npm run app:dir`
-2. Look at `dist/` folder.
+Deploy for distribution (macOS Intel/Silicon)
 
+```
+npm run app:dir
+```
 
-## 🏎 Run
+Run dev as program
 
-1. `npm install`
-2. `npm run start`
+```bash
+npm install
+
+npm run start
+```
