@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-frameworkless",
   "version": "1.0.0",
-  "description": "🔮 Framework-less last version of Electron boilerplate",
+  "description": "A Electron Starter Boilerplate for JavaScript. Start creating your macOS and Windows apps right now!",
   "author": "morellexf26",
   "license": "MIT",
   "main": "main.js",
