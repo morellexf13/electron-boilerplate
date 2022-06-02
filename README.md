@@ -10,9 +10,7 @@
   </h1>
   <sup>
     <br />
-   A Electron Starter Boilerplate for JavaScript. 
-   
-   Start creating your macOS and Windows apps right now!</em>
+   A Electron Starter Boilerplate for JavaScript. Start creating your macOS and Windows apps right now!</em>
     <br />
     <br />
     
