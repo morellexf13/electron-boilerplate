@@ -34,7 +34,7 @@ No dependencies. Just vanilla Javascript/HTML/CSS and Electron on the go.
 Deploy for distribution (macOS Intel/Silicon)
 
 ```
-npm run app:dir
+npm run build
 ```
 
 Run dev as program
@@ -42,5 +42,5 @@ Run dev as program
 ```bash
 npm install
 
-npm run start
+npm run dev
 ```
