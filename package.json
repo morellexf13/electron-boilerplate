@@ -1,7 +1,7 @@
 {
   "name": "electron-frameworkless",
-  "version": "1.0.8",
-  "description": "A Electron 26 Starter Boilerplate for JavaScript. Start creating your macOS and Windows apps right now!",
+  "version": "1.0.9",
+  "description": "A Electron 28 Starter Boilerplate for JavaScript. Start creating your macOS and Windows apps right now!",
   "author": "morellexf13",
   "license": "MIT",
   "repository": {
@@ -35,7 +35,7 @@
     }
   },
   "devDependencies": {
-    "electron": "^26.3.0",
-    "electron-builder": "^24.6.4"
+    "electron": "^28.1.2",
+    "electron-builder": "^24.9.1"
   }
 }
