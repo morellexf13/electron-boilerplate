@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
     <br/>
-    🍦 + ⚛️
+    🪐
     <br />
     <br />
-    Electron Frameworkless
+    Electron Boilerplate
     <br />
     <br />
   </h1>
@@ -14,8 +14,8 @@
     <br />
     <br />
     
-   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/electron-frameworkless/blob/main/LICENSE)
-   [![Version](https://img.shields.io/github/v/tag/morellexf13/electron-frameworkless?label=%20&style=for-the-badge)](https://github.com/morellexf13/electron-frameworkless/releases)
+   [![License](https://img.shields.io/badge/-MIT-red.svg?longCache=true&style=for-the-badge)](https://github.com/morellexf13/electron-boilerplate/blob/main/LICENSE)
+   [![Version](https://img.shields.io/github/v/tag/morellexf13/electron-boilerplate?label=%20&style=for-the-badge)](https://github.com/morellexf13/electron-boilerplate/releases)
 [![Docs](https://img.shields.io/badge/-Docs-blue.svg?style=for-the-badge)](https://www.electronjs.org)
   </sup>
   <br />
@@ -23,7 +23,7 @@
 
 <br>
 
-## What is Electron Frameworkless?
+## What is Electron Boilerplate?
 
 No dependencies. Just vanilla Javascript/HTML/CSS and Electron on the go.
 

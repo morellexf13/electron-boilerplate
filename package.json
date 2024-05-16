@@ -1,5 +1,5 @@
 {
-  "name": "electron-frameworkless",
+  "name": "electron-boilerplate",
   "version": "1.1.1",
   "description": "A Electron 30 Starter Boilerplate for JavaScript. Start creating your macOS and Windows apps right now!",
   "author": "morellexf13",
@@ -20,7 +20,8 @@
     "start",
     "tutorial",
     "demo",
-    "frameworkless"
+    "frameworkless",
+    "boilerplate"
   ],
   "build": {
     "productName": "electron-quick-start",
